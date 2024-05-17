@@ -1,0 +1,13 @@
+C:\Users\ll\Desktop\IT 2\Enrollment System\Enrollment System\bin\Debug\Enrollment System.exe.config
+C:\Users\ll\Desktop\IT 2\Enrollment System\Enrollment System\bin\Debug\Enrollment System.exe
+C:\Users\ll\Desktop\IT 2\Enrollment System\Enrollment System\bin\Debug\Enrollment System.pdb
+C:\Users\ll\Desktop\IT 2\Enrollment System\Enrollment System\obj\Debug\Enrollment System.csproj.AssemblyReference.cache
+C:\Users\ll\Desktop\IT 2\Enrollment System\Enrollment System\obj\Debug\Enrollment_System.Form1.resources
+C:\Users\ll\Desktop\IT 2\Enrollment System\Enrollment System\obj\Debug\Enrollment_System.Properties.Resources.resources
+C:\Users\ll\Desktop\IT 2\Enrollment System\Enrollment System\obj\Debug\Enrollment System.csproj.GenerateResource.cache
+C:\Users\ll\Desktop\IT 2\Enrollment System\Enrollment System\obj\Debug\Enrollment System.csproj.CoreCompileInputs.cache
+C:\Users\ll\Desktop\IT 2\Enrollment System\Enrollment System\obj\Debug\Enrollment System.exe
+C:\Users\ll\Desktop\IT 2\Enrollment System\Enrollment System\obj\Debug\Enrollment System.pdb
+C:\Users\ll\Desktop\IT 2\Enrollment System\Enrollment System\obj\Debug\Enrollment_System.Subject_Schedule_Entry.resources
+C:\Users\ll\Desktop\IT 2\Enrollment System\Enrollment System\obj\Debug\Enrollment_System.Form2.resources
+C:\Users\ll\Desktop\IT 2\Enrollment System\Enrollment System\obj\Debug\Enrollment_System.SubjectScheduleEntry.resources
